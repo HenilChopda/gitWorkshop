@@ -12,7 +12,7 @@ int main()
    sal[5]+=200;
    sum=arr[0]+arr[1]+arr[2]+arr[3]+arr[4];
 //printf("%d",sum);
-
+//printf("we do some editing");
     i=2;
     scanf("%f\n",&sal[i]);
     printf("%f\n",sal[i]);
